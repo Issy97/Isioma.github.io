@@ -20,7 +20,7 @@ Welcome to my repository showcasing data analysis projects created using Microso
 Each project folder contains detailed documentation and instructions on how to interact with the visualizations and analyses. Feel free to explore the datasets, dashboards, and underlying insights.
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/yourusername/data-analysis-projects.git`
+1. Clone this repository: `git clone https://github.com/Issy97/MeriSkill-iternship-projects`
 2. Navigate to the project folder you're interested in.
 3. Follow the instructions in the project's README to set up the environment and explore the analysis.
 
@@ -31,4 +31,4 @@ Contributions are welcome! If you have suggestions for improvements or new analy
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or collaborations, you can reach me at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or collaborations, you can reach me at [isioma.otali8@gmail.com].
